@@ -8,67 +8,68 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/js/accordion.js",
+			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/index.html",
 			"settings":
 			{
-				"buffer_size": 395,
-				"line_ending": "Windows",
-				"name": "$('.collapse').on('shown.bs.collapse', function(){"
-			}
-		},
-		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about-accordion.html",
-			"settings":
-			{
-				"buffer_size": 3919,
-				"line_ending": "Windows",
-				"name": "<div class=\"container\">"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 11394,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about.html",
+			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/header.php",
 			"settings":
 			{
-				"buffer_size": 18138,
+				"buffer_size": 2974,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/services.html",
+			"file": "/C/xampplite/htdocs/index.php",
 			"settings":
 			{
-				"buffer_size": 22284,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/contact.html",
-			"settings":
-			{
-				"buffer_size": 10050,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/css/bootstrap.min.css",
-			"settings":
-			{
-				"buffer_size": 109501,
+				"buffer_size": 256,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/index.html",
+			"file": "/C/xampplite/htdocs/index.html",
 			"settings":
 			{
-				"buffer_size": 13097,
+				"buffer_size": 44,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "    <!-- Footer -->\n        <footer>\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <p>Copyright &copy; 2014 Parto Imen Qeshm. All Right Reserved</p>\n                </div>\n            </div>\n        </footer>\n\n    </div>\n    <!-- /.container -->\n\n    <!-- jQuery Version 1.11.0 -->\n    <script src=\"js/jquery-1.11.0.js\"></script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"js/bootstrap.min.js\"></script>\n\n    <!-- Script to Activate the Carousel -->\n    <script>\n    $('.carousel').carousel({\n        interval: 5000 //changes the speed\n    })\n    </script>\n\n</body>\n\n</html>\n",
+			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/footer.php",
+			"file_size": 661,
+			"file_write_time": 130587851830953096,
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Windows",
+				"name": "</div> <!-- .container -->"
+			}
+		},
+		{
+			"contents": "<?php include('header.php'); ?>\n  <!-- Header Carousel -->\n    <header id=\"myCarousel\" class=\"carousel slide\">\n        <!-- Indicators -->\n        <ol class=\"carousel-indicators\">\n            <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"active\"></li>\n            <li data-target=\"#myCarousel\" data-slide-to=\"1\"></li>\n            <li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>\n        </ol>\n\n        <!-- Wrapper for slides -->\n        <div class=\"carousel-inner\">\n            <div class=\"item active\">\n                <div class=\"fill\" style=\"background-image:url('http://placehold.it/1900x1080/002040/FFC500&text=PIOC');\"></div>\n                <div class=\"carousel-caption\">\n                    <h2></h2>\n                </div>\n            </div>\n            <div class=\"item\">\n                <div class=\"fill\" style=\"background-image:url('http://placehold.it/1900x1080/002040/FFC500&text=Oil Test');\"></div>\n                <div class=\"carousel-caption\">\n                    <h2></h2>\n                </div>\n            </div>\n            <div class=\"item\">\n                <div class=\"fill\" style=\"background-image:url('http://placehold.it/1900x1080/002040/FFC500&text=Oil Purification');\"></div>\n                <div class=\"carousel-caption\">\n                    <h2></h2>\n                </div>\n            </div>\n        </div>\n\n        <!-- Controls -->\n        <a class=\"left carousel-control\" href=\"#myCarousel\" data-slide=\"prev\">\n            <span class=\"icon-prev\"></span>\n        </a>\n        <a class=\"right carousel-control\" href=\"#myCarousel\" data-slide=\"next\">\n            <span class=\"icon-next\"></span>\n        </a>\n    </header>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <!-- Marketing Icons Section -->\n        <div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h1 class=\"page-header\">\n                    <strong>\n                        Parto Imen Qeshm\n                    </strong>\n                </h1>\n            </div>\n            <div class=\"col-md-4\">\n                <div class=\"panel panel-default\">\n                    <div class=\"panel-heading\">\n                        <h4><i class=\"fa fa-fw fa-check\"></i> Oil Testing</h4>\n                    </div>\n                    <div class=\"panel-body\">\n                        <!--<p>Testing</p>-->\n                        <!-- <ul class=\"list-group\">\n                            <li class=\"list-group-item\">Test 1</li>\n                            <li class=\"list-group-item\">Test 2</li>\n                            <li class=\"list-group-item\">Test 3 </li>\n                        </ul> -->\n\n\n                        <div class=\"list-group\">\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-camera\"></span> Pictures <span class=\"badge\">New</span>\n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-file\"></span> Documents \n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-music\"></span> Music \n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-film\"></span> Videos \n                            </a>\n                        </div>\n                        <a href=\"#\" class=\"btn btn-default\">Learn More</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-md-4\">\n                <div class=\"panel panel-default\">\n                    <div class=\"panel-heading\">\n                        <h4><i class=\"fa fa-fw fa-gift\"></i> Oil Purification</h4>\n                    </div>\n                    <div class=\"panel-body\">\n                        <!--<p>Purifating</p>-->\n                        <ul>\n                            <li>Purifating 1</li>\n                            <li>Purifating 2</li>\n                            <li>Purifating 3 </li>\n                        </ul>\n                        <a href=\"#\" class=\"btn btn-default\">Learn More</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-md-4\">\n                <div class=\"panel panel-default\">\n                    <div class=\"panel-heading\">\n                        <h4><i class=\"fa fa-fw fa-compass\"></i> Easy to Use</h4>\n                    </div>\n                    <div class=\"panel-body\">\n                        <!--<p>Usage</p>-->\n                        <ul>\n                            <li>Usage 1</li>\n                            <li>Usage 2</li>\n                            <li>Usage 3 </li>\n                        </ul>\n                        <a href=\"#\" class=\"btn btn-default\">Learn More</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n\n        <!-- Portfolio Section -->\n        <!--<div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h2 class=\"page-header\">Portfolio Heading</h2>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n        </div>-->\n        <!-- /.row -->\n\n        <!-- Features Section -->\n        <div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h2 class=\"page-header\">Business Features</h2>\n            </div>\n            <div class=\"col-md-6\">\n                <p>PIOC proudly presents : </p>\n                <ul>\n                    <li><strong>Item 1</strong>\n                    </li>\n                    <li>Item 2</li>\n                    <li>Item 3 </li>\n                </ul>\n                <p>Features Description</p>\n            </div>\n            <div class=\"col-md-6\">\n                <img class=\"img-responsive\" src=\"oil.jpg\" alt=\"\">\n            </div>\n        </div>\n        <!-- /.row -->\n\n        <hr>\n\n        <!-- Call to Action Section -->\n        <div class=\"well\">\n            <div class=\"row\">\n                <div class=\"col-md-8\">\n                    <p>Description</p>\n                </div>\n                <div class=\"col-md-4\">\n                    <a class=\"btn btn-lg btn-default btn-block\" href=\"#\">Contact Us</a>\n                </div>\n            </div>\n        </div>\n\n        <hr>\n<?php include('footer.php'); ?>",
+			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/test.html",
+			"file_size": 8035,
+			"file_write_time": 130587852134563454,
+			"settings":
+			{
+				"buffer_size": 7841,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php include('header.php'); ?>\n  <!-- Header Carousel -->\n    <header id=\"myCarousel\" class=\"carousel slide\">\n        <!-- Indicators -->\n        <ol class=\"carousel-indicators\">\n            <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"active\"></li>\n            <li data-target=\"#myCarousel\" data-slide-to=\"1\"></li>\n            <li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>\n        </ol>\n\n        <!-- Wrapper for slides -->\n        <div class=\"carousel-inner\">\n            <div class=\"item active\">\n                <div class=\"fill\" style=\"background-image:url('http://placehold.it/1900x1080/002040/FFC500&text=PIOC');\"></div>\n                <div class=\"carousel-caption\">\n                    <h2></h2>\n                </div>\n            </div>\n            <div class=\"item\">\n                <div class=\"fill\" style=\"background-image:url('http://placehold.it/1900x1080/002040/FFC500&text=Oil Test');\"></div>\n                <div class=\"carousel-caption\">\n                    <h2></h2>\n                </div>\n            </div>\n            <div class=\"item\">\n                <div class=\"fill\" style=\"background-image:url('http://placehold.it/1900x1080/002040/FFC500&text=Oil Purification');\"></div>\n                <div class=\"carousel-caption\">\n                    <h2></h2>\n                </div>\n            </div>\n        </div>\n\n        <!-- Controls -->\n        <a class=\"left carousel-control\" href=\"#myCarousel\" data-slide=\"prev\">\n            <span class=\"icon-prev\"></span>\n        </a>\n        <a class=\"right carousel-control\" href=\"#myCarousel\" data-slide=\"next\">\n            <span class=\"icon-next\"></span>\n        </a>\n    </header>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <!-- Marketing Icons Section -->\n        <div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h1 class=\"page-header\">\n                    <strong>\n                        Parto Imen Qeshm\n                    </strong>\n                </h1>\n            </div>\n            <div class=\"col-md-4\">\n                <div class=\"panel panel-default\">\n                    <div class=\"panel-heading\">\n                        <h4><i class=\"fa fa-fw fa-check\"></i> Oil Testing</h4>\n                    </div>\n                    <div class=\"panel-body\">\n                        <!--<p>Testing</p>-->\n                        <!-- <ul class=\"list-group\">\n                            <li class=\"list-group-item\">Test 1</li>\n                            <li class=\"list-group-item\">Test 2</li>\n                            <li class=\"list-group-item\">Test 3 </li>\n                        </ul> -->\n\n\n                        <div class=\"list-group\">\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-camera\"></span> Pictures <span class=\"badge\">New</span>\n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-file\"></span> Documents \n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-music\"></span> Music \n                            </a>\n                            <a href=\"#\" class=\"list-group-item\">\n                                <span class=\"glyphicon glyphicon-film\"></span> Videos \n                            </a>\n                        </div>\n                        <a href=\"#\" class=\"btn btn-default\">Learn More</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-md-4\">\n                <div class=\"panel panel-default\">\n                    <div class=\"panel-heading\">\n                        <h4><i class=\"fa fa-fw fa-gift\"></i> Oil Purification</h4>\n                    </div>\n                    <div class=\"panel-body\">\n                        <!--<p>Purifating</p>-->\n                        <ul>\n                            <li>Purifating 1</li>\n                            <li>Purifating 2</li>\n                            <li>Purifating 3 </li>\n                        </ul>\n                        <a href=\"#\" class=\"btn btn-default\">Learn More</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-md-4\">\n                <div class=\"panel panel-default\">\n                    <div class=\"panel-heading\">\n                        <h4><i class=\"fa fa-fw fa-compass\"></i> Easy to Use</h4>\n                    </div>\n                    <div class=\"panel-body\">\n                        <!--<p>Usage</p>-->\n                        <ul>\n                            <li>Usage 1</li>\n                            <li>Usage 2</li>\n                            <li>Usage 3 </li>\n                        </ul>\n                        <a href=\"#\" class=\"btn btn-default\">Learn More</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n\n        <!-- Portfolio Section -->\n        <!--<div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h2 class=\"page-header\">Portfolio Heading</h2>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n            <div class=\"col-md-4 col-sm-6\">\n                <a href=\"portfolio-item.html\">\n                    <img class=\"img-responsive img-portfolio img-hover\" src=\"http://placehold.it/700x450\" alt=\"\">\n                </a>\n            </div>\n        </div>-->\n        <!-- /.row -->\n\n        <!-- Features Section -->\n        <div class=\"row\">\n            <div class=\"col-lg-12\">\n                <h2 class=\"page-header\">Business Features</h2>\n            </div>\n            <div class=\"col-md-6\">\n                <p>PIOC proudly presents : </p>\n                <ul>\n                    <li><strong>Item 1</strong>\n                    </li>\n                    <li>Item 2</li>\n                    <li>Item 3 </li>\n                </ul>\n                <p>Features Description</p>\n            </div>\n            <div class=\"col-md-6\">\n                <img class=\"img-responsive\" src=\"oil.jpg\" alt=\"\">\n            </div>\n        </div>\n        <!-- /.row -->\n\n        <hr>\n\n        <!-- Call to Action Section -->\n        <div class=\"well\">\n            <div class=\"row\">\n                <div class=\"col-md-8\">\n                    <p>Description</p>\n                </div>\n                <div class=\"col-md-4\">\n                    <a class=\"btn btn-lg btn-default btn-block\" href=\"#\">Contact Us</a>\n                </div>\n            </div>\n        </div>\n\n        <hr>\n<?php include('footer.php'); ?>",
+			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/test.php",
+			"file_size": 8035,
+			"file_write_time": 130587852134563454,
+			"settings":
+			{
+				"buffer_size": 7841,
 				"line_ending": "Windows"
 			}
 		}
@@ -80,6 +81,18 @@
 		"selected_items":
 		[
 			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"gi tad",
+				"Git: Add Current File"
+			],
+			[
+				"git: ad",
+				"Git: Add Current File"
+			],
+			[
 				"ins",
 				"Package Control: Install Package"
 			],
@@ -88,7 +101,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -105,6 +118,14 @@
 	},
 	"file_history":
 	[
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/head.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/js/accordion.js",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about-accordion.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/services.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/contact.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/css/bootstrap.min.css",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/index.html"
 	],
 	"find":
 	{
@@ -147,29 +168,58 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/js/accordion.js",
+					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/index.html",
 					"settings":
 					{
-						"buffer_size": 395,
+						"buffer_size": 11394,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								395,
-								395
+								0,
+								2974
 							]
 						],
 						"settings":
 						{
-							"auto_name": "$('.collapse').on('shown.bs.collapse', function(){",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1029.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/header.php",
+					"settings":
+					{
+						"buffer_size": 2974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2974,
+								2974
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -178,39 +228,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about-accordion.html",
-					"settings":
-					{
-						"buffer_size": 3919,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								3918
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<div class=\"container\">",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 683.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 2,
+					"file": "/C/xampplite/htdocs/index.php",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 256,
 						"regions":
 						{
 						},
@@ -223,7 +245,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -233,138 +255,112 @@
 				},
 				{
 					"buffer": 3,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about.html",
+					"file": "/C/xampplite/htdocs/index.html",
 					"settings":
 					{
-						"buffer_size": 18138,
+						"buffer_size": 44,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2039,
-								2125
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 447.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/services.html",
-					"settings":
-					{
-						"buffer_size": 22284,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2129,
-								2129
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 429.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/contact.html",
-					"settings":
-					{
-						"buffer_size": 10050,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8511,
-								8511
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2248.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/css/bootstrap.min.css",
-					"settings":
-					{
-						"buffer_size": 109501,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								63649,
-								63649
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 570202.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/index.html",
+					"buffer": 4,
+					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/footer.php",
 					"settings":
 					{
-						"buffer_size": 13097,
+						"buffer_size": 633,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2042,
-								2127
+								374,
+								374
 							]
 						],
 						"settings":
 						{
+							"auto_name": "</div> <!-- .container -->",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/test.html",
+					"settings":
+					{
+						"buffer_size": 7841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7809,
+								7809
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 177.0,
+						"translation.y": 3329.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/test.php",
+					"settings":
+					{
+						"buffer_size": 7841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3720.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -403,6 +399,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 130.0
+	},
 	"replace":
 	{
 		"height": 0.0
