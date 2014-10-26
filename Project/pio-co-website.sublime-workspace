@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"incl",
+				"include"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampplite/htdocs/git/modern-business/footer.php",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampplite/htdocs/git/modern-business/template.php",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampplite/htdocs/git/modern-business/header.php",
+			"settings":
+			{
+				"buffer_size": 2974,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/header.php",
+			"settings":
+			{
+				"buffer_size": 2974,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampplite/htdocs/git/modern-business/head.php",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"gi tad",
+				"Git: Add Current File"
+			],
+			[
+				"git: ad",
+				"Git: Add Current File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampplite/htdocs/git/Project/pio-co-website.sublime-project",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/script_include.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/footer.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/header_carousel.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/navigator.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/head.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/template.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/index.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/header.php",
+		"/C/xampplite/htdocs/index.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/footer.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/test.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/test.php",
+		"/C/xampplite/htdocs/index.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/test/head.php",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/js/accordion.js",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about-accordion.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/about.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/services.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/contact.html",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/css/bootstrap.min.css",
+		"/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/modern-business/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padding-top:20px",
+			"padding-top:15px",
+			"20px",
+			".navbar-nav>.active>a:focus",
+			"background-color",
+			"a:focus ",
+			"inverse .navbar-nav>.active>a:focus ",
+			"padding-top"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampplite/htdocs/git/modern-business/footer.php",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampplite/htdocs/git/modern-business/template.php",
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampplite/htdocs/git/modern-business/header.php",
+					"settings":
+					{
+						"buffer_size": 2974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/amirahmad/Desktop/modern-business-Working-PIOC/git/piowebsite/modern-business/header.php",
+					"settings":
+					{
+						"buffer_size": 2974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampplite/htdocs/git/modern-business/head.php",
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
