@@ -22,7 +22,7 @@
     		    <div class="col-md-4">
     		        <div class="panel panel-default text-center">
     		            <div class="panel-heading">
-    		                <h4 style="color: #ffc500"><span class="glyphicon glyphicon-check"></span> Test1</h4>
+    		                <h4 style="color: #ffc500"><span class="glyphicon glyphicon-check"></span> Test</h4>
     		            </div>
     		            <div class="panel-body">
     		                <div class="list-group">
