@@ -1,107 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-	<?php include('head.php'); ?>
-	<body>
-		<?php include('header.php'); ?>
+	<?php include('module/head.php'); ?>
+	<body class="demo">
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left">
+            </div>
+            <div class="loader-section section-right">
+            </div>
+        </div>
+        <?php $PageNo = 'home'; ?>
+		<?php include('module/header.php'); ?>
 		<!-- Specific for every pages -->
-		<?php include('header_carousel.php'); ?>
-		<!-- End of specification -->
-
-		<!-- Page Content -->
-    	<div class="container">
-    		<!-- Specific for every pages -->
-    		<!-- Marketing Icons Section -->
-    		<div class="row">
-    		    <div class="col-lg-12">
-    		        <h1 class="page-header">
-    		            <strong>
-    		                Parto Imen Qeshm
-    		            </strong>
-    		        </h1>
-    		    </div>
-    		    <div class="col-md-4">
-    		        <div class="panel panel-default text-center">
-    		            <div class="panel-heading">
-    		                <h4 style="color: #ffc500"><span class="glyphicon glyphicon-check"></span> Test</h4>
-    		            </div>
-    		            <div class="panel-body">
-    		                <div class="list-group">
-    		                    <a href="#" class="list-group-item">
-    		                        <span class="glyphicon glyphicon-camera"></span> 
-    		                        Industrial 
-    		                    </a>
-    		                    <a href="#" class="list-group-item">
-    		                        <span class="glyphicon glyphicon-file"></span> 
-    		                        Non Industrial 
-    		                    </a>
-    		                </div>
-    		                <a href="#" class="btn btn-primary"><span class="glyphicon glyphicon-align-justify"></span> Learn More</a>
-    		            </div>
-    		        </div>
-    		    </div>
-    		    <div class="col-md-4">
-    		        <div class="panel panel-default text-center" >
-    		            <div class="panel-heading">
-    		                <h4 style="color: #ffc500"><span class="glyphicon glyphicon-retweet"></span>  Treatment</h4>
-    		            </div>
-    		            <div class="panel-body">
-    		                <div class="list-group">
-    		                    <a href="#" class="list-group-item">
-    		                        <span class="glyphicon glyphicon-camera"></span> 
-    		                        Chemical 
-    		                    </a>
-    		                    <a href="#" class="list-group-item">
-    		                        <span class="glyphicon glyphicon-file"></span> 
-    		                        Physical 
-    		                    </a>
-    		                </div>
-    		                <a href="#" class="btn btn-primary"><span class="glyphicon glyphicon-align-justify"></span> Learn More</a>
-    		            </div>
-    		        </div>
-    		    </div>
-    		    <div class="col-md-4">
-    		        <div class="panel panel-default text-center">
-    		            <div class="panel-heading">
-    		                <h4 style="color: #ffc500"><span class="glyphicon glyphicon-shopping-cart"></span> Trading</h4>
-    		            </div>
-    		            <div class="panel-body">
-    		                <div class="list-group">
-    		                    <a href="#" class="list-group-item">
-    		                        <span class="glyphicon glyphicon-camera"></span> 
-    		                        International 
-    		                    </a>
-    		                    <a href="#" class="list-group-item">
-    		                        <span class="glyphicon glyphicon-file"></span> 
-    		                        Domestic
-    		                    </a>
-    		                </div>
-    		                <a href="#" class="btn btn-primary"><span class="glyphicon glyphicon-align-justify"></span> Learn More</a>
-    		            </div>
-    		        </div>
-    		    </div>
-    		</div>
-    		<!-- Features Section -->
-    		<div class="row">
-    		    <div class="col-lg-12">
-    		        <h2 class="page-header">Business Features</h2>
-    		    </div>
-    		    <div class="col-md-6">
-    		        <p>PIOC proudly presents : </p>
-    		        <ul>
-    		            <li><strong>Item 1</strong>
-    		            </li>
-    		            <li>Item 2</li>
-    		            <li>Item 3 </li>
-    		        </ul>
-    		        <p>Features Description</p>
-    		    </div>
-    		    <div class="col-md-6">
-    		        <img class="img-responsive" src="oil.jpg" alt="">
-    		    </div>
-    		</div>
-    		<!-- End of specfication-->
-    		<?php include('footer.php'); ?>
-    	</div>
+        <dev class="container">
+        <dev class="main onepage-wrapper" >
+            <!-- Page 1 -->
+            <section>
+                <?php include('module/header_carousel.php'); ?>
+            </section>
+            <!-- Page 2 -->
+            <section style="background-image: url('BF.jpg') ; background-size: 1500px 800px;background-repeat: no-repeat;background-position: center center; ">
+                <?php include('module/index-page-2.php'); ?>
+            </section>
+            <!-- Page 3 -->
+            <section style="background-color: #1F2123">
+                <?php include('module/index-page-3.php'); ?>
+                <?php include('module/footer.php'); ?>
+            </section>
+        </div> <!-- End of main-->
+    </div>
 	</body>
-	<?php include('script_include.php'); ?>
+	<?php include('js/script_include.php'); ?>
 </html>
